@@ -83,7 +83,7 @@ Open and run all cells in **`Sentiment_Analysis_Complete.ipynb`** to go through 
 ### 🔀 Confusion Matrices
 | Model | Confusion Matrix |
 |-------|------------------|
-| BERT | ![BERT CM](bert_cm.png) |
+| BERT | ![BERT CM](models/bert_cm.png) |
 | Logistic Regression | ![LR CM](logistic_regression_cm.png) |
 | Naive Bayes | ![NB CM](naive_bayes_cm.png) |
 | Random Forest | ![RF CM](random_forest_cm.png) |
