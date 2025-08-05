@@ -84,22 +84,22 @@ Open and run all cells in **`Sentiment_Analysis_Complete.ipynb`** to go through 
 | Model | Confusion Matrix |
 |-------|------------------|
 | BERT | ![BERT CM](models/bert_cm.png) |
-| Logistic Regression | ![LR CM](logistic_regression_cm.png) |
-| Naive Bayes | ![NB CM](naive_bayes_cm.png) |
-| Random Forest | ![RF CM](random_forest_cm.png) |
-| SVM | ![SVM CM](svm_cm.png) |
-| XGBoost | ![XGB CM](xgboost_cm.png) |
-| LSTM | ![LSTM CM](lstm_cm.png) |
+| Logistic Regression | ![LR CM](models/logistic_regression_cm.png) |
+| Naive Bayes | ![NB CM](models/naive_bayes_cm.png) |
+| Random Forest | ![RF CM](models/random_forest_cm.png) |
+| SVM | ![SVM CM](models/svm_cm.png) |
+| XGBoost | ![XGB CM](models/xgboost_cm.png) |
+| LSTM | ![LSTM CM](models/lstm_cm.png) |
 
 ### 📈 Training Histories
 - **BERT**  
-  ![BERT History](bert_history.png)
+  ![BERT History](models/bert_history.png)
 
 - **LSTM**  
-  ![LSTM History](lstm_history.png)
+  ![LSTM History](models/lstm_history.png)
 
 ### 📊 Sentiment Distribution
-![Sentiment Distribution](sentiment_distribution_pie.png)
+![Sentiment Distribution](models/sentiment_distribution_pie.png)
 
 ---
 
