@@ -70,6 +70,17 @@ Open and run all cells in **`Sentiment_Analysis_Complete.ipynb`** to go through 
 
 ---
 
+---
+
+## 📄 Project Report & Presentation
+
+- **📘 Project Report:** [📄 View Report](Yadav_Akhilesh_ProjectReport.pdf)
+- **📊 Project Presentation:** [📊 View PPT](Major_Project_ppt.pdf)
+
+> These documents provide detailed insights into the methodology, experiments, results, and key takeaways from the project.
+
+---
+
 ## 🏆 Results and Comparison
 
 - SVM and BERT achieved ~**93% accuracy**.  
